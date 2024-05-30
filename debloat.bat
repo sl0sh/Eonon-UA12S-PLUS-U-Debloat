@@ -1,5 +1,5 @@
 @echo on
-::factory settings password adbwf
+::factory settings password adbwf thanks to xda.dev
 ::adb shell "pm enable PACKAGENAME"
 adb shell "pm disable-user --user 0 com.qti.qualcomm.deviceinfo"
 adb shell "pm disable-user --user 0 com.qti.qualcomm.datastatusnotification"
